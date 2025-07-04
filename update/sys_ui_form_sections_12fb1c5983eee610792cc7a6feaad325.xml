@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="12fb1c5983eee610792cc7a6feaad325" sys_domain="global" table="x_58872_needit_needitv1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-04 02:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56fb1c5983eee610792cc7a6feaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needitv1" name="x_58872_needit_needitv1" sys_domain="global" view="06fbd85983eee610792cc7a6feaad3ab">12fb1c5983eee610792cc7a6feaad325</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needitv1" sys_domain="global" view="06fbd85983eee610792cc7a6feaad3ab">16fb1c5983eee610792cc7a6feaad321</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-04 02:41:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-04 02:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12fb1c5983eee610792cc7a6feaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needitv1" name="x_58872_needit_needitv1" sys_domain="global" view="06fbd85983eee610792cc7a6feaad3ab">12fb1c5983eee610792cc7a6feaad325</sys_ui_form>
+            <sys_ui_section caption="Priority status" display_value="Priority status" name="x_58872_needit_needitv1" sys_domain="global" view="06fbd85983eee610792cc7a6feaad3ab">9afb1c5983eee610792cc7a6feaad322</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-04 02:41:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-04 02:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9afb1c5983eee610792cc7a6feaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needitv1" name="x_58872_needit_needitv1" sys_domain="global" view="06fbd85983eee610792cc7a6feaad3ab">12fb1c5983eee610792cc7a6feaad325</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needitv1" sys_domain="global" view="06fbd85983eee610792cc7a6feaad3ab">dafb1c5983eee610792cc7a6feaad323</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-04 02:41:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needitv1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-04 02:41:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12fb1c5983eee610792cc7a6feaad325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needitv1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_12fb1c5983eee610792cc7a6feaad325</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-04 02:41:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Test View" name="Test_View">06fbd85983eee610792cc7a6feaad3ab</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
